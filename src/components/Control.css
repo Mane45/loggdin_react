@@ -1,0 +1,18 @@
+.container {
+    /* background-color: blue; */
+    width: 100wh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    border-bottom: 1px solid #000;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.body {
+    padding: 3% 20%;
+}
